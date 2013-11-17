@@ -119,6 +119,8 @@ Step 4. Creating cache directory
 
   mkdir /tmp/eaccelerator
   chmod 0777 /tmp/eaccelerator
+  
+  (* note : I may use /var/cache/eaccelerator directory for larger disk capacity)
 
 
 Configuration Options
